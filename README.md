@@ -1,71 +1,139 @@
-# ⚡ Hi there 👋 I'm Jan Welner Decinilla ⚡
+# 🎨 Jan Wel Graphic Design Portfolio
 
-Hi there 👋 I'm **Jan Welner Decinilla**
+Welcome to my official digital portfolio repository!  
+This project showcases my creative works, skills, and growth as a **Graphic Designer and BSIS student**.
 
-Welcome to my GitHub! I'm a Bachelor of Science in Information Technology (BSIT) student from Davao del Norte State College who is passionate about technology, graphic design, programming, and web development.
+🔗 Live Portfolio Website:  
+https://sites.google.com/view/janwelgraphicdesign/home  
 
-## 💫 About Me
+---
 
-Hello! My name is **JAN WELNER DECINILLA**, a BSIT student currently studying at Davao del Norte State College. I am passionate about technology, graphic design, web development, and learning new skills related to the IT industry.
+## 👨‍🎓 About Me
 
-As a student, I enjoy exploring how websites, systems, and applications are designed and developed. I am continuously improving my knowledge in HTML, CSS, JavaScript, Java, and database management. I also enjoy creating graphic designs using Canva and developing user-friendly websites.
+Hello! I am **Jan Welner Decinilla**, a second-year **Bachelor of Science in Information System (BSIS)** student and an aspiring **Graphic Designer**.
 
-Through my academic journey, I have worked on projects that strengthened my problem-solving abilities, creativity, teamwork, and technical skills. These experiences have helped me gain a better understanding of software development and web technologies.
+I am passionate about combining **creativity and technology** to produce visually appealing and meaningful designs. I enjoy exploring how design can communicate ideas effectively, attract attention, and improve user experience.
 
-My goal is to continue improving my skills in programming, web development, system analysis, and graphic design while preparing for a successful career in the IT industry.
+As a student in the IS field, I am also developing my technical skills in programming and web development, but my main creative focus is on **digital design and visual communication**.
 
-## 🚀 Projects
+---
 
-### 📦 Banana Inventory Management System
+## 🎯 My Mission
 
-A web-based inventory management system designed to manage banana inventory, monitor stock levels, and generate reports efficiently.
+My mission as a student designer is to:
 
-### 🌐 Personal Portfolio Website
+- Develop strong creative and technical design skills  
+- Produce high-quality and effective visual content  
+- Improve my knowledge in digital media and UI/UX design  
+- Use design to communicate ideas clearly and professionally  
+- Grow into a skilled and industry-ready creative professional  
 
-A personal portfolio website showcasing my skills, graphic design projects, services, and contact information.
+---
 
-### 🎨 Graphic Design Projects
+## 🧠 What I Do
 
-A collection of Canva-based posters, social media graphics, presentations, and creative visual designs developed for academic and personal projects.
+I specialize in creating simple, modern, and effective visual content, including:
 
-## 🛠️ Skills
+### 🎨 Graphic Design
+- Poster design  
+- Flyers and brochures  
+- Event announcements  
+- School project layouts  
 
-* HTML
-* CSS
-* JavaScript
-* Java Programming
-* MySQL Database Management
-* Canva Graphic Design
-* UI/UX Design Basics
-* VS Code
-* NetBeans
+### 📱 Social Media Design
+- Facebook posts and banners  
+- Promotional content  
+- Digital marketing visuals  
+- Infographics  
 
-## 🏆 Achievements
+### 🖼️ Presentation Design
+- PowerPoint presentations  
+- Academic reports design  
+- Visual storytelling slides  
+- Clean and professional layouts  
 
-* 💻 Developed a Banana Inventory Management System
-* 🎨 Created a Personal Graphic Design Portfolio
-* 🌐 Developed Web Design and Front-End Projects
-* 📚 BSIT Student at Davao del Norte State College
-* 🚀 Continuously Learning New Technologies and Digital Skills
+### 🏷️ Branding & Identity
+- Logo concepts (basic level)  
+- Color theme selection  
+- Typography styling  
+- Visual consistency design  
 
-## 🎯 Interests
+---
 
-* Graphic Design
-* Web Development
-* System Development
-* UI/UX Design
-* Technology and Innovation
-* Digital Creativity
+## 🛠️ Tools & Technologies
 
-## 📫 Contact Me
+I use a variety of tools to create my designs:
 
-📧 Email: [welnerdecinilla641@gmail.com](mailto:welnerdecinilla641@gmail.com)
+- 🎨 Canva (Primary Design Tool)  
+- 🖌️ Adobe Photoshop (Basic Knowledge)  
+- 🧩 Figma (Basic UI/UX Practice)  
+- 📊 Microsoft PowerPoint  
+- 🧠 Online design resources & templates  
 
-🌐 Portfolio Website: [Add Your Website Link Here]
+---
 
-💼 LinkedIn: [Add Your LinkedIn Profile Link Here]
+## 📁 Featured Projects
 
-📱 Facebook: [Add Your Facebook Profile Link Here]
+Here are some of the design works included in my portfolio:
 
-📍 Location: Davao del Norte, Philippines
+### 📌 Social Media Designs
+Created engaging posts and promotional content for online platforms such as Facebook and school events.
 
+### 📌 Academic Projects
+Designed visual presentations and layout outputs for school requirements and group activities.
+
+### 📌 Branding Concepts
+Developed simple branding ideas including logo sketches, typography choices, and visual identity planning.
+
+### 📌 Poster & Event Designs
+Produced posters for school events, announcements, and informational campaigns with clear visual hierarchy.
+
+---
+
+## 💡 Skills I Am Developing
+
+As I continue my journey, I am improving in the following areas:
+
+- Creativity and visual composition  
+- Color theory and typography  
+- Layout and spacing principles  
+- Basic UI/UX design thinking  
+- Time management in design projects  
+- Collaboration and feedback adaptation  
+
+---
+
+## 🚀 Future Goals
+
+In the future, I aim to:
+
+- Become a professional Graphic Designer or UI/UX Designer  
+- Master advanced tools like Adobe Illustrator and Photoshop  
+- Improve my web and interface design skills  
+- Build a strong professional design portfolio  
+- Work on real-world creative projects and clients  
+
+---
+
+## 🌐 Online Presence
+
+- 🌍 Portfolio Website: https://sites.google.com/view/janwelgraphicdesign/home  
+- 💻 GitHub: https://github.com/JanwelnerDecinilla
+- 📧 Email: welnerdecinilla641@example.com  
+
+---
+
+## 🤝 Collaboration
+
+I am open to learning opportunities, collaborations, and creative projects that will help me grow as a designer and student.
+
+If you have suggestions or feedback, feel free to reach out!
+
+---
+
+## ⭐ Thank You
+
+Thank you for visiting my portfolio repository.  
+Your support and feedback are highly appreciated as I continue my journey in design and technology.
+
+---
